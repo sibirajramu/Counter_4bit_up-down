@@ -138,6 +138,9 @@ Click the cds.lib file and save the file by clicking on Save option
 
 ![WhatsApp Image 2024-10-04 at 09 38 35_215dd30b](https://github.com/user-attachments/assets/74038198-533d-4064-a832-a2799d61df6d)
 
+<br>
+<br>
+
 ## Fig 5: Selection of Don’t include any libraries
 
 	A Click “OK” in the “nclaunch: Open Design Directory” window
