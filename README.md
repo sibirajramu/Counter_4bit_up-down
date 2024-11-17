@@ -55,6 +55,10 @@ Functional Simulation:
 
 (Note : File name should be with HDL Extension)
 
+<br>
+<br>
+<br>
+
 ### Verilog code for 4-Bit Up-Down Counter:
 
 		`timescale 1ns / 1 ns
